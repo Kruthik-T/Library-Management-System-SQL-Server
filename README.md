@@ -175,6 +175,7 @@ Most importantly, this project helped me understand that SQL is not only about w
 🧰 Technologies Used
 Microsoft SQL Server
 SQL Server Management Studio (SSMS)
+
 👨‍💻 Author
 
 Kruthik Teliseeri
